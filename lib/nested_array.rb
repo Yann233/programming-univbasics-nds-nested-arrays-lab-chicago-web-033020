@@ -28,7 +28,7 @@ def assembled_matrix
 end
 ###############################
 =begin
-# Using Array literal syntax only, build another nested array that
+# Using Array LITERAL SYNTAX only, build another nested array that
 # uses the arrays of conventional and organic produce as before.
 # However, this time, sort each internal array alphabetically by the first character
 # the sorted_matrix method returns a nested array made from two constants with sorted elements
