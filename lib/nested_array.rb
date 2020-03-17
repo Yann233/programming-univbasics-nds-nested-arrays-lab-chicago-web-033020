@@ -36,7 +36,7 @@ end
 def sorted_matrix
   sorted_matrix=[CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort] #.sort 可以排列
 =begin
-或者也可以直接写出来
+或者可以直接写出来，只适用于短AoA/Array,
   sorted_matrix = [
   ["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
   ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
