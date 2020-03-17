@@ -34,7 +34,7 @@ end
 # the sorted_matrix method returns a nested array made from two constants with sorted elements
 =end
 def sorted_matrix
-  sorted_matrix=[CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort]
+  sorted_matrix=[CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort] #.sort 可以排列
 =begin
 或者也可以直接写出来
   sorted_matrix = [
